@@ -3,7 +3,7 @@
 ![sql.png](sql.png)
 
 
-SQL Challenge
+SQL Challenge for Employee Database:
 
 
 Part 1 - Data Modeling - QuickDBD
@@ -15,4 +15,4 @@ Part 2 - Data Engineering - Dataeng.sql file
 Part 3 - Data Analysis - analysis.sql
 
 
-Bonus - 
+Bonus - Jupyter Notebook
